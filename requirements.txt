@@ -10,3 +10,4 @@ pillow==9.0.1
 django-debug-toolbar==3.4.0
 whitenoise==6.1.0
 gunicorn==20.1.0
+dj-database-url
